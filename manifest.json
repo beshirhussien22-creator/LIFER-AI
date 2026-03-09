@@ -1,0 +1,21 @@
+{
+  "name": "LIFER AI Chatbot",
+  "short_name": "LIFER AI",
+  "description": "The ultimate AI chatbot with infinite knowledge and device control",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=LIFER+AI",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=LIFER+AI",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

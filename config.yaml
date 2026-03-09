@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@lifer.ai
+      name: LIFER Admin
+      password: $2b$12$examplehashedpassword  # Replace with actual hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - admin@lifer.ai
